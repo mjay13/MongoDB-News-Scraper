@@ -1,7 +1,7 @@
 # News Article Scraper
 
 ### Overview
-This is a web app that lets users view and leave comments on the latest news utelizing MongoDB. It uses mongoose and cheerio npm packages to scrape the news from other sites.
+This is a web app that lets users view and leave comments on the latest news utilizing MongoDB. It uses mongoose and cheerio npm packages to scrape the news from other sites.
 
 - - -
 
@@ -23,3 +23,7 @@ This app uses the following npm packages:
 * body-parser
 * cheerio
 * request
+
+- - - 
+
+2017 Megan M. Jacobs
