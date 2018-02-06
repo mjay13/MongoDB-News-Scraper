@@ -6,7 +6,7 @@ This is a web app that lets users view and leave comments on the latest news uti
 - - -
 
 ### Deployment
-This application is deployed to Heroku, view [here] (google.com). 
+This application is deployed to Heroku, view (future deployment link here). 
 
 - - -
 
